@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "999488732484",
+    "firebase_url": "https://react-native-stripe-payment.firebaseio.com",
+    "project_id": "react-native-stripe-payment",
+    "storage_bucket": "react-native-stripe-payment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999488732484:android:945a6d5bfc43e9c327ab11",
+        "android_client_info": {
+          "package_name": "com.rnstripe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999488732484-chbjfhgvn8kr32klpljehmv1ep2e1lbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj2Fb8t2Xn0E_hXW7AHUIs2rxMyW42BtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999488732484-chbjfhgvn8kr32klpljehmv1ep2e1lbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
